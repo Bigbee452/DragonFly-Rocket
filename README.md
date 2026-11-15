@@ -33,7 +33,6 @@ The repository contains the design files and documentation needed to build and m
 ```text
 ├── CAD/              # 3D models and CAD files
 ├── Simulations/      # Open rocket files
-├── Documentation/    # Assembly instructions and notes
 └── README.md         # Project overview
 ```
 
